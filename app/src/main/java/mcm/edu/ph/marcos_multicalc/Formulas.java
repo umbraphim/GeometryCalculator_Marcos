@@ -1,4 +1,4 @@
-package mcm.edu.ph.geometrycalculator_marcos;
+package mcm.edu.ph.marcos_multicalc;
 
 //import  java.lang.Math,*;
 public class Formulas {

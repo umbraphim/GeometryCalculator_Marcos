@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "mcm.edu.ph.geometrycalculator_marcos"
+        applicationId "mcm.edu.ph.marcos_multicalc"
         minSdk 26
         targetSdk 32
         versionCode 1

@@ -1,10 +1,10 @@
-package mcm.edu.ph.geometrycalculator_marcos.CylinderFormulas;
+package mcm.edu.ph.marcos_multicalc.CylinderFormulas;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import mcm.edu.ph.geometrycalculator_marcos.R;
+import mcm.edu.ph.marcos_multicalc.R;
 
 public class CylinderArea extends AppCompatActivity {
 

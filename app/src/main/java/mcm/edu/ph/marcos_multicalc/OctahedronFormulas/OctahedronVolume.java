@@ -1,10 +1,10 @@
-package mcm.edu.ph.geometrycalculator_marcos.OctahedronFormulas;
+package mcm.edu.ph.marcos_multicalc.OctahedronFormulas;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import mcm.edu.ph.geometrycalculator_marcos.R;
+import mcm.edu.ph.marcos_multicalc.R;
 
 public class OctahedronVolume extends AppCompatActivity {
 

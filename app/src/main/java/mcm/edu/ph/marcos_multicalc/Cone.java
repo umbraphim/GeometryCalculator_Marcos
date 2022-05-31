@@ -1,4 +1,4 @@
-package mcm.edu.ph.geometrycalculator_marcos;
+package mcm.edu.ph.marcos_multicalc;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,9 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import org.w3c.dom.Text;
-
-import mcm.edu.ph.geometrycalculator_marcos.ConeFormulas.*;
+import mcm.edu.ph.marcos_multicalc.ConeFormulas.*;
 
 
 public class Cone extends AppCompatActivity implements View.OnClickListener{

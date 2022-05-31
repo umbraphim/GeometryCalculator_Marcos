@@ -1,4 +1,4 @@
-package mcm.edu.ph.geometrycalculator_marcos.ConeFormulas;
+package mcm.edu.ph.marcos_multicalc.ConeFormulas;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,8 +8,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import mcm.edu.ph.geometrycalculator_marcos.Formulas;
-import mcm.edu.ph.geometrycalculator_marcos.R;
+import mcm.edu.ph.marcos_multicalc.Formulas;
+import mcm.edu.ph.marcos_multicalc.R;
 
 public class ConeArea extends AppCompatActivity implements View.OnClickListener {
 

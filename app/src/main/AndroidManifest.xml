@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="mcm.edu.ph.geometrycalculator_marcos">
+    package="mcm.edu.ph.marcos_multicalc">
 
     <application
         android:allowBackup="true"
@@ -8,51 +8,51 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.GeometryCalculator_Marcos">
+        android:theme="@style/Marcos_MultiCalc">
         <activity
-            android:name=".SphereFormulas.SphereVolume"
+            android:name="mcm.edu.ph.marcos_multicalc.SphereFormulas.SphereVolume"
             android:exported="false" />
         <activity
-            android:name=".SphereFormulas.SphereArea"
+            android:name="mcm.edu.ph.marcos_multicalc.SphereFormulas.SphereArea"
             android:exported="false" />
         <activity
-            android:name=".OctahedronFormulas.OctahedronVolume"
+            android:name="mcm.edu.ph.marcos_multicalc.OctahedronFormulas.OctahedronVolume"
             android:exported="false" />
         <activity
-            android:name=".OctahedronFormulas.OctahedronArea"
+            android:name="mcm.edu.ph.marcos_multicalc.OctahedronFormulas.OctahedronArea"
             android:exported="false" />
         <activity
-            android:name=".CylinderFormulas.CylinderVolume"
+            android:name="mcm.edu.ph.marcos_multicalc.CylinderFormulas.CylinderVolume"
             android:exported="false" />
         <activity
-            android:name=".CylinderFormulas.CylinderArea"
+            android:name="mcm.edu.ph.marcos_multicalc.CylinderFormulas.CylinderArea"
             android:exported="false" />
         <activity
-            android:name=".CuboidFormulas.CuboidVolume"
+            android:name="mcm.edu.ph.marcos_multicalc.CuboidFormulas.CuboidVolume"
             android:exported="false" />
         <activity
-            android:name=".CuboidFormulas.CuboidArea"
+            android:name="mcm.edu.ph.marcos_multicalc.CuboidFormulas.CuboidArea"
             android:exported="false" />
         <activity
-            android:name=".ConeFormulas.ConeVolume"
+            android:name="mcm.edu.ph.marcos_multicalc.ConeFormulas.ConeVolume"
             android:exported="false" />
         <activity
-            android:name=".ConeFormulas.ConeArea"
+            android:name="mcm.edu.ph.marcos_multicalc.ConeFormulas.ConeArea"
             android:exported="false" />
         <activity
-            android:name=".Cylinder"
+            android:name="mcm.edu.ph.marcos_multicalc.Cylinder"
             android:exported="false" />
         <activity
-            android:name=".Octahedron"
+            android:name="mcm.edu.ph.marcos_multicalc.Octahedron"
             android:exported="false" />
         <activity
-            android:name=".Cone"
+            android:name="mcm.edu.ph.marcos_multicalc.Cone"
             android:exported="false" />
         <activity
-            android:name=".Cuboid"
+            android:name="mcm.edu.ph.marcos_multicalc.Cuboid"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name="mcm.edu.ph.marcos_multicalc.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -1,10 +1,10 @@
-package mcm.edu.ph.geometrycalculator_marcos.CuboidFormulas;
+package mcm.edu.ph.marcos_multicalc.CuboidFormulas;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import mcm.edu.ph.geometrycalculator_marcos.R;
+import mcm.edu.ph.marcos_multicalc.R;
 
 public class CuboidVolume extends AppCompatActivity {
 
